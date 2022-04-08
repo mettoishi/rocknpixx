@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0x16D5987f66a8fEA7ce5497679ae5D183Df9f36cD",
+  "SCAN_LINK": "https://polygonscan.com/address/0x16d5987f66a8fea7ce5497679ae5d183df9f36cd",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
+  "NFT_NAME": "Crypto Guitars",
+  "SYMBOL": "CTG",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
   "SHOW_BACKGROUND": true
 }
