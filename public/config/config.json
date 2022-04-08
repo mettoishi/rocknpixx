@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x16D5987f66a8fEA7ce5497679ae5D183Df9f36cD",
-  "SCAN_LINK": "https://polygonscan.com/address/0x16d5987f66a8fea7ce5497679ae5d183df9f36cd",
+  "CONTRACT_ADDRESS": "0x7dC036CB7Ef66d5C5E9F1a104e816eC0cE3FE679",
+  "SCAN_LINK": "https://polygonscan.com/address/0x7dc036cb7ef66d5c5e9f1a104e816ec0ce3fe679",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Crypto Guitars",
-  "SYMBOL": "CTG",
+  "NFT_NAME": "Rock N Pixx",
+  "SYMBOL": "RNP",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 10000000000000000000,
-  "DISPLAY_COST": 0.001,
+  "DISPLAY_COST": 0.0001,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/",
